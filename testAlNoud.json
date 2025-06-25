@@ -1,0 +1,42 @@
+{
+  "id": "road1",
+  "project": "Al Ain Road Project",
+  "width_meters": 10.0,
+  "start_point": {
+    "latitude": 24.132887122634546,
+    "longitude": 55.82393831385343
+  },
+  "end_point": {
+    "latitude": 24.133455007020476,
+    "longitude": 55.8285731708215
+  },
+  "objects": [
+    {
+      "category": "tree",
+      "type": "tree1",
+      "latitude": 24.133014407291064,
+      "longitude": 55.82607335219096,
+      "rotation": 45.0
+    },
+    {
+      "category": "pipe",
+      "type": "sewage",
+      "start_latitude": 24.132950,
+      "start_longitude": 55.824500,
+      "end_latitude": 24.133100,
+      "end_longitude": 55.825500,
+      "depth": 3.0,
+      "radius": 0.5
+    },
+    {
+      "category": "pipe",
+      "type": "water",
+      "start_latitude": 24.132960,
+      "start_longitude": 55.826000,
+      "end_latitude": 24.133120,
+      "end_longitude": 55.827000,
+      "depth": 2.0,
+      "radius": 0.3
+    }
+  ]
+}
