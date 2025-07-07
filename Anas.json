@@ -1,0 +1,42 @@
+{
+  "id": "road1",
+  "project": "Anas",
+  "width_meters": 4.0, 
+  "start_point": {
+    "latitude": 32.723609526014684,
+    "longitude": 36.581999728916394
+  },
+  "end_point": {
+    "latitude": 32.71466404781564, 
+    "longitude": 36.57426098243536
+  },
+  "objects": [
+    {
+      "category": "tree",
+      "type": "tree1",
+      "latitude": 32.71576532861328, 
+      "longitude": 36.57514611141182,
+      "rotation": 45.0
+    },
+    {
+      "category": "pipe",
+      "type": "sewage",
+      "start_latitude": 24.132950,
+      "start_longitude": 55.824500,
+      "end_latitude": 24.133100,
+      "end_longitude": 55.825500,
+      "depth": 3.0,
+      "radius": 0.5
+    },
+    {
+      "category": "pipe",
+      "type": "water",
+      "start_latitude": 24.132960,
+      "start_longitude": 55.826000,
+      "end_latitude": 24.133120,
+      "end_longitude": 55.827000,
+      "depth": 2.0,
+      "radius": 0.3
+    }
+  ]
+}
